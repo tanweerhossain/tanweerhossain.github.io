@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "resume-01",
+    "resume-01": "resume-01"
+  }
+}
